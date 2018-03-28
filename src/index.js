@@ -12,7 +12,7 @@ rootDiv.style.color = "red";
 //TEMPLATE LITERAL CODE
 rootDiv.innerHTML = `
 
-<div style="font-size:19px;margin-top:50px; background: cyan; display:inline-block;">
+<div style="font-size:14px;margin-top:50px; background: cyan; display:inline-block;">
   ${greeting} I'm added via a template literal.
 </div>
 
