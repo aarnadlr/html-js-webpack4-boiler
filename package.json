@@ -1,0 +1,21 @@
+{
+  "name": "html-js-webpack4-boiler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --mode development --open",
+    "build": "webpack --mode production"
+  },
+  "keywords": [],
+  "author": "Aaron Adler",
+  "license": "ISC",
+  "devDependencies": {
+    "html-loader": "^0.5.5",
+    "html-webpack-plugin": "^3.1.0",
+    "webpack": "^4.3.0",
+    "webpack-cli": "^2.0.13",
+    "webpack-dev-server": "^3.1.1"
+  }
+}
