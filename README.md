@@ -1,6 +1,6 @@
 
 # SIMPLE WEBPACK 4 BOILERPLATE
-## HTML and JS bundling via Webpack 4. HTML and JS live-reloading via webpack-dev-server.
+### HTML and JS bundling via Webpack 4. HTML and JS live-reloading via webpack-dev-server.
 
 
 This is a simple, functional boilerplate project centered around Webpack 4. It is configured to bundle javascript by webpack's default config (no specials js loaders used), and HTML bundling via html-loader and html-webpack-plugin.
@@ -17,7 +17,7 @@ npm run start
 
 
 ### Further information
-This is how the project was created:
+How the project was built:
 
 1. TERMINAL COMMANDS:
 
@@ -26,7 +26,7 @@ $	mkdir <project> && cd $_
 
 $	npm init -y
 
-$ npm i webpack webpack-cli webpack-dev-server html-loader html-webpack-plugin --save-dev
+$	npm i webpack webpack-cli webpack-dev-server html-loader html-webpack-plugin --save-dev
 
 $	mkdir src
 
@@ -84,14 +84,14 @@ module.exports = {
 ```
 
 
-8. The boilerplate is complete. To experience both html and js live-reloading in development, run:
+8. The boilerplate is complete! To experience both html and js live-reloading in development, run:
 
 ```
 npm run start
 ```
 
 
-Thank you and good luck.
+Thank you and good luck!
 
 a
 
