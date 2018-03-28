@@ -1,12 +1,12 @@
 
-#SIMPLEST WEBPACK 4 SETUP
+# SIMPLEST WEBPACK 4 SETUP
 
-###Created March 2018
+### Created March 2018
 
 This is a simple, functional boilerplate project centered around Webpack 4. It is configured to bundle javascript by webpack-default (no specials js loaders used), and HTML bundling via html-loader and html-webpack-plugin.
 
 
-###INSTRUCTIONS:
+### INSTRUCTIONS:
 Get both html and js live-reloading for development by running:
 ```
 **npm run start**
@@ -14,6 +14,8 @@ Get both html and js live-reloading for development by running:
 
 
 
+
+### Further information
 This is how the project was created:
 
 1.
